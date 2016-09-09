@@ -1,8 +1,7 @@
 ---
 title: Swift - first day - 3
 ---
-> Why need introduction then can hide the text?
--- Kevin
+> 面向对象
 <!-- more -->
 
 #### 6.面向对象
