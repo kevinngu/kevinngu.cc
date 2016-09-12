@@ -109,3 +109,30 @@ let message = (-1).errorMessage
 }
 ```
 ##### 指定构造函数和析构函数只能由原始类型提供
+
+#### 11.协议
+##### 类似java的抽象类
+##### 声明
+``` swift
+protocol pName {
+//实例属性
+//静态属性
+//实例方法
+//静态方法
+}
+```
+#### 12.Swift内存管理
+##### 鉴于Swift使用的是自动管理内存技术ARC（Automatic Reference Counting）, 初学阶段也不需深究，Obj-C可以手动管理内存。
+
+#### 13.错误处理
+##### 语法
+```swift
+do｛
+	try statement
+	//handle success statement
+｝ catch Exception {
+	//handle exception
+}
+```
+#### Swift第一天笔记暂时更新到这儿。
+----------------------我是有底线的人------------------------
