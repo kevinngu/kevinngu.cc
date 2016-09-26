@@ -70,9 +70,17 @@ avatar: /images/avatar.png
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+#deploy:
+  ##type: git
+  ##repo: https://git.coding.net/kevinngu/personalBlog.git
+  ##https://github.com/kevinngu/kevinngu.github.io,master
+  ##branch: master
+  
 deploy:
   type: git
-  repo: https://github.com/kevinngu/kevinngu.github.io
+  repository:
+      github: https://github.com/kevinngu/kevinngu.github.io
+      coding: https://git.coding.net/kevinngu/personalBlog.git
   branch: master
   
 # Comment  
