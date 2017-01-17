@@ -1,5 +1,9 @@
 ---
 title: Blog setup
+categories:
+- Hexo
+tags:
+- blog setup reference
 ---
 Use light-weight blog framework to setup your personal blog in github-pages.
 <!-- more -->

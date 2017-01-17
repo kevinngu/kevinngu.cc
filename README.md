@@ -1,2 +1,2 @@
-# kevinngu.cc
+# kevinngu.github.io
 my personal blog

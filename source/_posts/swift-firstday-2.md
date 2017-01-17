@@ -1,5 +1,9 @@
 ---
 title: Swift - first day - 2
+categories:
+- IOS
+tags:
+- Swift
 ---
 > 闭包
 离上一篇学习笔记已经10多天了，50%因为在忙公司的项目，50%是懒癌，这病得治

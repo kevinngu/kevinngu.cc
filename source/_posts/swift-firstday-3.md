@@ -1,5 +1,9 @@
 ---
 title: Swift - first day - 3
+categories:
+- IOS
+tags:
+- Swift
 ---
 > 面向对象
 <!-- more -->

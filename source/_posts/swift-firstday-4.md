@@ -1,5 +1,9 @@
 ---
 title: Swift - first day - 4
+categories:
+- IOS
+tags:
+- Swift
 ---
 > 构造， 继承， 扩展
 <!-- more -->
